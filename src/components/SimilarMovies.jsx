@@ -35,7 +35,7 @@ export default function SimilarMovies({ similarMovies }) {
         className="mySwiper"
       >
         {similarMovies.slice(0, 7).map((movie, i) => (
-          <SwiperSlide key={i}>
+          <SwiperSlide className=" flex" key={i}>
             <Link
               href={`/movie/${movie._id}`}
               key={i}
