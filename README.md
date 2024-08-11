@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">🚀 Just launched my latest project: an IMDb clone built with Next.js! 🎬<br><br>- Users can easily browse and search for movies, filter trending films from 2023, and dive into detailed movie info. The site features sleek animations, dark mode, and a dynamic carousel to enhance the experience.<br><br>- Tech stack: Next.js, Framer Motion, Tailwind CSS, RapidAPI, RTK Query, Next-themes, and React Slick.<br><br>- Check it out and let me know your thoughts! 💻✨ #Nextjs #WebDevelopment #Frontend #JavaScript #React #TailwindCSS #APIs #UIDesign</p>
+<p align="left">🚀 Just launched my latest project: an IMDb clone built with Next.js! 🎬<br><br>- Users can easily browse and search for movies, filter trending films from 2023, and dive into detailed movie info. The site features sleek animations, dark mode, and a dynamic carousel to enhance the experience.<br><br>- Tech stack: Next.js, Framer Motion, Tailwind CSS, RapidAPI, RTK Query, Next-themes, and React Slick.<br><br>- Check it out and let me know your thoughts! 💻✨</p>
 
 ###
 
