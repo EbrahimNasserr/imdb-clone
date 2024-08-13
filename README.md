@@ -30,11 +30,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+###
+
+<h3 align="left">👩‍💻  Description</h3>
 
 ###
 
-<p align="left">I'm Ebrahim Nasser from Egypt<br><br>- 🔭 I’m working as a Front-end developer with a focus on building visually stunning and user-friendly websites. Driven to deliver engaging user experiences and a strong attention to detail in all projects.<br><br>- 📚 I'm currently learning back-end tools</p>
+<p align="left">🚀 Just launched my latest project: an IMDb clone built with Next.js! 🎬<br><br>- Users can easily browse and search for movies, filter trending films from 2023, and dive into detailed movie info. The site features sleek animations, dark mode, and a dynamic carousel to enhance the experience.<br><br>- Tech stack: Next.js, Framer Motion, Tailwind CSS, RapidAPI, RTK Query, Next-themes, and React Slick.<br><br>- Check it out and let me know your thoughts! 💻✨</p>
 
 ###
 
