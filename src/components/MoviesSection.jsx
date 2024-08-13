@@ -28,8 +28,6 @@ export default function MoviesSection({ category, setCategory }) {
     filteredData = moviesArray;
   }
 
-  console.log(data);
-
   return (
     <section
       ref={container}
